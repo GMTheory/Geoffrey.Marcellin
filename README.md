@@ -4,13 +4,21 @@ Independent Researcher — constrained control, information limits, emergent fra
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18209785.svg)](https://doi.org/10.5281/zenodo.18209785)
 ## Quick links
 
-- 📄 **Paper 1 (Zenodo):** https://doi.org/10.5281/zenodo.18199983  
-- 🏛️ **HAL record:** https://hal.science/ (record under moderation)  
-- 🧬 **ORCID:** https://orcid.org/0009-0003-3679-8050  
-- 💻 **GitHub repository:** https://github.com/GMTheory/Geoffrey.Marcellin  
-- ✉️ **Contact:** gmtheory@outlook.fr
+• 📄 Paper 1 (Zenodo):
+  https://doi.org/10.5281/zenodo.18199983
 
-<h2>Tableau de suivi des découvertes</h2>
+• 🧩 Framework / Code (Zenodo):
+  https://doi.org/10.5281/zenodo.18209785
+
+• 🏛 HAL record:
+  https://hal.science/ (record under moderation)
+
+• 💻 GitHub repository:
+  https://github.com/GMTheory/Geoffrey.Marcellin
+
+• 🧾 ORCID:
+  https://orcid.org/0009-0003-3679-8050
+
 <h2>Research Tracker — Discoveries</h2>
 
 <div style="overflow-x:auto">
