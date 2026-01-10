@@ -1,0 +1,15 @@
+# Paper 2a — Control-Induced Fractality under Finite Constraints
+
+**Status:** Formulated  
+**Relation:** Derived from Paper 1
+
+## Objective
+To show how constrained control and finite feedback naturally generate fractal structures and heavy-tailed dynamics, without invoking chaos theory or new physical assumptions.
+
+## Approach
+- Uses the invariants established in Paper 1
+- Remains within operational thermodynamics and control theory
+- No claims beyond framework-consistent behavior
+
+## Notes
+This paper focuses on structural consequences, not fundamental discovery.
