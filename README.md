@@ -1,5 +1,14 @@
 # Geoffrey.Marcellin
 Independent Researcher — constrained control, information limits, emergent fractality
+
+## Quick links
+
+- 📄 **Paper 1 (Zenodo):** https://doi.org/10.5281/zenodo.18199983  
+- 🏛️ **HAL record:** https://hal.science/ (record under moderation)  
+- 🧬 **ORCID:** https://orcid.org/0009-0003-3679-8050  
+- 💻 **GitHub repository:** https://github.com/GMTheory/Geoffrey.Marcellin  
+- ✉️ **Contact:** gmtheory@outlook.fr
+
 <h2>Tableau de suivi des découvertes</h2>
 <h2>Research Tracker — Discoveries</h2>
 
