@@ -1,4 +1,4 @@
-# Geoffrey.Marcellin
+# Geoffrey Marcellin (GMTheory)
 Independent Researcher — constrained control, information limits, emergent fractality
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18209785.svg)](https://doi.org/10.5281/zenodo.18209785)
