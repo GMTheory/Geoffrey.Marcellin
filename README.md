@@ -28,7 +28,7 @@ Independent Researcher — constrained control, information limits, emergent fra
         <th style="padding:10px;border:1px solid #1f2630">Typology</th>
         <th style="padding:10px;border:1px solid #1f2630">Working Title</th>
         <th style="padding:10px;border:1px solid #1f2630">Proposed Name</th>
-        <th style="padding:20px;border:1px solid #1f2630">Description</th>
+        <th style="padding:10px;border:1px solid #1f2630">Description</th>
         <th style="padding:10px;border:1px solid #1f2630">DOI</th>
         <th style="padding:10px;border:1px solid #1f2630">Status</th>
         <th style="padding:10px;border:1px solid #1f2630">References</th>
