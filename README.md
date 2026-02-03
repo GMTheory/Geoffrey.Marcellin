@@ -112,7 +112,7 @@ https://orcid.org/0009-0003-3679-8050
       </tr>
       <!-- Invariant 2 : Paper 3 -->
       <tr>
-        <td style="padding:8px;border:1px solid #1f2630">Invariant</td>
+        <td style="padding:8px;border:1px solid #1f2630">Protocole</td>
         <td style="padding:8px;border:1px solid #1f2630">
           Protocole 2B 
         </td>
