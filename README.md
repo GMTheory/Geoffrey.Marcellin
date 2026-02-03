@@ -123,7 +123,7 @@ https://orcid.org/0009-0003-3679-8050
           An operable frame produces a coherent projection of a system without exhausting it; identifying a model with the whole induces irreversible informational loss.
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Pending
+          10.5281/zenodo.18467611
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
           🟡 Formulated (axiomatic)
