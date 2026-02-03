@@ -16,7 +16,7 @@ Independent Researcher — constrained control, information limits, emergent fra
 
 • 💻 GitHub repository: https://github.com/GMTheory/Geoffrey.Marcellin
 
-• 🐦 X (project updates): https://x.com/i/status/2010110591378288981
+• 🐦 X (project updates): @MetaTheoryGM
 
 • 🧾 ORCID: https://orcid.org/0009-0003-3679-8050
 
