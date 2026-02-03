@@ -6,6 +6,7 @@ Independent Researcher — constrained control, information limits, emergent fra
 
 • 📄 (Paper 1) Frame Constraints and the Limits of Totalization (Zenodo):
   https://doi.org/10.5281/zenodo.18199983
+  
 • 📄 (Paper 1) Frame Constraints and the Limits of Totalization (Zenodo):
   https://doi.org/10.5281/zenodo.18199983
 
