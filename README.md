@@ -10,24 +10,15 @@ Independent Researcher — constrained control, information limits, emergent fra
 • 📄 (Paper 2) Local Interaction as a Necessary Condition for Operable Systems (Zenodo):
   https://doi.org/10.5281/zenodo.18199983
 
-• 🧩 Framework / Code (Zenodo):
-  https://doi.org/10.5281/zenodo.18209785
+• 🧩 Framework / Code (Zenodo): https://doi.org/10.5281/zenodo.18209785
 
-• 🏛 HAL record:
+• 🏛 HAL record: https://hal.science/ (record under moderation)
 
-https://hal.science/ (record under moderation)
+• 💻 GitHub repository: https://github.com/GMTheory/Geoffrey.Marcellin
 
-• 💻 GitHub repository:
+• 🐦 X (project updates): https://x.com/i/status/2010110591378288981
 
-https://github.com/GMTheory/Geoffrey.Marcellin
-
-• 🐦 X (project updates):
-
-https://x.com/i/status/2010110591378288981
-
-• 🧾 ORCID:
-
-https://orcid.org/0009-0003-3679-8050
+• 🧾 ORCID: https://orcid.org/0009-0003-3679-8050
 
 <h2>Research Tracker — Discoveries</h2>
 
