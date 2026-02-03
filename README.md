@@ -8,7 +8,7 @@ Independent Researcher — constrained control, information limits, emergent fra
   https://doi.org/10.5281/zenodo.18199983
   
 • 📄 (Paper 2) Local Interaction as a Necessary Condition for Operable Systems (Zenodo):
-  https://doi.org/10.5281/zenodo.18199983
+  https://doi.org/10.5281/zenodo.18467611
 
 • 🧩 Framework / Code (Zenodo): https://doi.org/10.5281/zenodo.18209785
 
