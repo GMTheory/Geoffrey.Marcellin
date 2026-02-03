@@ -91,7 +91,7 @@ https://orcid.org/0009-0003-3679-8050
           A structural limitation result: complete observability, global controllability, and stable multi-scale predictability cannot be simultaneously realized within an operable system under finite informational and energetic constraints.
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Pending
+          10.5281/zenodo.18467611
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
           🟢 Established
