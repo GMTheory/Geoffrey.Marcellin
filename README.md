@@ -7,7 +7,7 @@ Independent Researcher — constrained control, information limits, emergent fra
 • 📄 (Paper 1) Frame Constraints and the Limits of Totalization (Zenodo):
   https://doi.org/10.5281/zenodo.18199983
   
-• 📄 (Paper 1) Frame Constraints and the Limits of Totalization (Zenodo):
+• 📄 (Paper 2) Local Interaction as a Necessary Condition for Operable Systems (Zenodo):
   https://doi.org/10.5281/zenodo.18199983
 
 • 🧩 Framework / Code (Zenodo):
@@ -82,44 +82,45 @@ https://orcid.org/0009-0003-3679-8050
       <tr>
         <td style="padding:8px;border:1px solid #1f2630">Invariant</td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Non-Totalizability of Observation, Control, and Prediction under Finite Resources
+          Local Interaction as a Necessary Condition for Operable Systems
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Operable Non-Totalization Invariant
+          A Structural Consequence of Frame Constraints
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          A structural no-go principle: complete observability, global controllability, and stable multi-scale predictability cannot be jointly achieved under finite informational and energetic constraints.
+          A structural limitation result: complete observability, global controllability, and stable multi-scale predictability cannot be simultaneously realized within an operable system under finite informational and energetic constraints.
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
           Pending
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          🟡 Formulated (framework-level)
+          🟢 Established
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
           Gödel (1931)<br>
           Shannon (1948)<br>
           Ashby (1956)<br>
           Wolpert &amp; Macready (1997)
+          Geoffrey Marcellin (2026)
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          2026-01
+          2026-02
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Any apparent counterexample implicitly assumes infinite capacity (measurement, computation, time, or control) and exits the operable scientific frame.
+          Any apparent counterexample implicitly assumes unbounded capacity (measurement, computation, time, or control), and therefore lies outside the operable scientific frame defined here.
         </td>
       </tr>
       <!-- Invariant 2 : Paper 3 -->
       <tr>
         <td style="padding:8px;border:1px solid #1f2630">Invariant</td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Frame Non-Exhaustivity of the Real
+          Protocole 2B 
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
           Frame Non-Equivalence Invariant
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
-          Any operable frame produces a coherent projection of the real without ever exhausting it; identifying a model with the whole induces irreversible informational loss.
+          An operable frame produces a coherent projection of a system without exhausting it; identifying a model with the whole induces irreversible informational loss.
         </td>
         <td style="padding:8px;border:1px solid #1f2630">
           Pending
